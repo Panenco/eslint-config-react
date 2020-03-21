@@ -27,6 +27,7 @@ module.exports = {
       }
     ],
     "import/prefer-default-export": 0,
-    "react/jsx-props-no-spreading": 0
+    "react/jsx-props-no-spreading": 0,
+    "react/static-property-placement": [true]
   }
 };

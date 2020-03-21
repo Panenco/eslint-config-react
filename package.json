@@ -1,6 +1,6 @@
 {
   "name": "@panenco/eslint-config-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESlint configuration for @panenco projects",
   "author": "Kostiantyn Levytskyi <le.konstantos@gmail.com>",
   "license": "UNLICENSED",
