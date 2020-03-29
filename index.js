@@ -28,6 +28,6 @@ module.exports = {
     ],
     "import/prefer-default-export": 0,
     "react/jsx-props-no-spreading": 0,
-    "react/static-property-placement": [1]
+    "react/static-property-placement": ["error", "static public field"]
   }
 };
